@@ -1,0 +1,64 @@
+{
+  "DESSERTS": [
+    {
+      "IMAGE": "molten.jpg",
+      "Name": "MOLTEN CHOCOLATE",
+      "CALORIES": 1400,
+      "PRICE": 60
+    },
+
+    {
+      "IMAGE": "cheesecake.jpg",
+      "Name": "CHEESECAKE",
+      "CALORIES": 1350,
+      "PRICE": 70
+    },
+
+    {
+      "IMAGE": "honeycake.jpg",
+      "Name": "HONEY",
+      "CALORIES": 1250,
+      "PRICE": 85
+    },
+
+    {
+      "IMAGE": "belgian.jpg",
+      "Name": "BELGIAN CHOCOLATE",
+      "CALORIES": 1300,
+      "PRICE": 90
+    }
+
+  ],
+
+  "DRINKS": [
+    {
+      "IMAGE": "lemonade.jpg",
+      "Name": "STRAWBERRY LEMONADE",
+      "CALORIES": 300,
+      "PRICE": 20
+    },
+
+    {
+      "IMAGE": "blue.jpg",
+      "Name": "MOJITO BLUE",
+      "CALORIES": 400,
+      "PRICE": 30
+    },
+
+    {
+      "IMAGE": "vanilla.jpg",
+      "Name": "VANILLA COKE",
+      "CALORIES": 350,
+      "PRICE": 15
+    },
+
+    {
+      "IMAGE": "zero.jpg",
+      "Name": "COKE ZERO",
+      "CALORIES": 0,
+      "PRICE": 10
+    }
+  ]
+
+
+}
