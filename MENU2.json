@@ -28,37 +28,5 @@
       "PRICE": 90
     }
 
-  ],
-
-  "DRINKS": [
-    {
-      "IMAGE": "lemonade.jpg",
-      "Name": "STRAWBERRY LEMONADE",
-      "CALORIES": 300,
-      "PRICE": 20
-    },
-
-    {
-      "IMAGE": "blue.jpg",
-      "Name": "MOJITO BLUE",
-      "CALORIES": 400,
-      "PRICE": 30
-    },
-
-    {
-      "IMAGE": "vanilla.jpg",
-      "Name": "VANILLA COKE",
-      "CALORIES": 350,
-      "PRICE": 15
-    },
-
-    {
-      "IMAGE": "zero.jpg",
-      "Name": "COKE ZERO",
-      "CALORIES": 0,
-      "PRICE": 10
-    }
   ]
-
-
 }
